@@ -32,7 +32,7 @@ This was my first time writing a python program so it's not an optimal solution 
 
 I think `layoutmapping.py` is the more efficent solution but it will fail to find the best spot in certain maps such as:
 
-    WWWW
+    WWW
     WEW
     W W
     W W
